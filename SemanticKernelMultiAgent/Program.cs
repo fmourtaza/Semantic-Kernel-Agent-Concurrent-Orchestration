@@ -169,16 +169,17 @@ class Program
     private static Kernel CreateKernelWithChatCompletion()
     {
         var builder = Kernel.CreateBuilder();
-        
+
         // CHOOSE ONE OF THE OPTIONS BELOW:
 
         // OPTION 1: Azure OpenAI (recommended for enterprise)
         // Uncomment and fill in your Azure OpenAI details:
-        builder.AddAzureOpenAIChatCompletion(
+        /*builder.AddAzureOpenAIChatCompletion(
             deploymentName: "gpt-4o",        // e.g., "gpt-4o"
             endpoint: "https://your-azure-openai-endpoint.openai.azure.com/", // e.g., "https://your-resource-name.openai.azure.com/"
             apiKey: "your-azure-openai-api-key");
-
+        */
+        
         // OPTION 2: OpenAI (easier to get started)
         // Uncomment and add your OpenAI API key:
         /*
