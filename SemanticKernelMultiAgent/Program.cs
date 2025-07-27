@@ -176,8 +176,8 @@ class Program
         // Uncomment and fill in your Azure OpenAI details:
         builder.AddAzureOpenAIChatCompletion(
             deploymentName: "gpt-4o",        // e.g., "gpt-4o"
-            endpoint: "https://azureaihub8699990451.openai.azure.com/",
-            apiKey: "GKRxTwmDMX5lRwJvGvl76UuOrDXpcnzoNujG2K0ZRva6HN1WJL03JQQJ99BEAC4f1cMXJ3w3AAAAACOGAuTU");
+            endpoint: "https://your-azure-openai-endpoint.openai.azure.com/", // e.g., "https://your-resource-name.openai.azure.com/"
+            apiKey: "your-azure-openai-api-key");
 
         // OPTION 2: OpenAI (easier to get started)
         // Uncomment and add your OpenAI API key:
