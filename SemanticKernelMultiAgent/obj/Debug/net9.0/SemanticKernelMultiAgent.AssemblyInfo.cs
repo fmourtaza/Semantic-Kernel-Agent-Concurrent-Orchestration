@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SemanticKernelMultiAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f8d2a958915e624d731b5b092c3576c8fadb1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd71b99836d57f53a725c0615b240550e0814622")]
 [assembly: System.Reflection.AssemblyProductAttribute("SemanticKernelMultiAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SemanticKernelMultiAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
